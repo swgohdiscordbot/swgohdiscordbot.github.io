@@ -14,7 +14,7 @@ All these steps will need to be done on a computer.
 
 ## Set up Discord
 
- - Browse to https://discordapp.com/developers/applications/
+ - Browse to [https://discordapp.com/developers/applications/](https://discordapp.com/developers/applications/)
  - Click "Create an application"
  - (You can set an icon and give the project a name, but it doesn’t really matter. What you set here won’t appear anywhere besides the Discord application list.)
  - Click "Copy" under "Client ID". Paste the Client ID somewhere. You'll need it later.
@@ -22,13 +22,13 @@ All these steps will need to be done on a computer.
  - Click "Add Bot"
  - This is where you set the bot's name and icon
  - Once you've done that, click "Copy" under "Token". Make sure you paste this somewhere for later too.
- - Replace the zeros in this URL with the Client ID you copied before: https://discordapp.com/api/oauth2/authorize?client_id=000000000000000000&scope=bot&permissions=8
+ - Replace the zeros in this URL with the Client ID you copied before: [https://discordapp.com/api/oauth2/authorize?client_id=000000000000000000&scope=bot&permissions=8](https://discordapp.com/api/oauth2/authorize?client_id=000000000000000000&scope=bot&permissions=8)
  - Visit your edited URL and you'll be prompted to choose which server the bot should join.
- - Browse to the channel you want the bot to operate in and copy the last  part of the URL. The numbers after the last slash are the Channel ID. (For example, in https://discordapp.com/channels/000000000000000000/111111111111111111 the Channel ID is 111111111111111111.)
+ - Browse to the channel you want the bot to operate in and copy the last  part of the URL. The numbers after the last slash are the Channel ID. (For example, in [https://discordapp.com/channels/000000000000000000/111111111111111111](https://discordapp.com/channels/000000000000000000/111111111111111111) the Channel ID is 111111111111111111.)
 
 ## Set up Glitch
 
- - Browse to https://glitch.com/edit/#!/payout-countdown
+ - Browse to [https://glitch.com/edit/#!/payout-countdown](https://glitch.com/edit/#!/payout-countdown)
  - Click "Remix This" in the upper-right corner
  - Click the project name in the upper-left and choose "Sign In"
  - Once you're signed in, click the project name again and click the lock icon underneath. This makes your project private.
@@ -42,7 +42,7 @@ All these steps will need to be done on a computer.
 
 ## Set up UptimeRobot
 
- - Log in to https://uptimerobot.com/
+ - Log in to [https://uptimerobot.com/](https://uptimerobot.com/)
  - Browse to the Dashboard
  - Click "+ Add New Monitor"
  - Choose "HTTP(S)" for monitor type, give it a name, and paste the URL you just copied in the "URL (or IP)" field.
