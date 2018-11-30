@@ -1,4 +1,4 @@
-# SWGOH Discord Countdown Bot
+# SWGOH Payout Countdown Discord Bot
 
 ![screenshot](/botscreenshot.png)
 
