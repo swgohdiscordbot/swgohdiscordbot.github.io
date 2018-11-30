@@ -1,4 +1,4 @@
-# SWGOH Discord Countdown Bot
+![screenshot](/botscreenshot.png)
 
 # Prerequisites
 
