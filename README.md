@@ -52,7 +52,8 @@ All these steps will need to be done on a computer.
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 ## Credits
-Original bot written by [Tarnadas](https://github.com/Tarnadas/shard-payout) [(Reddit thread)](https://www.reddit.com/r/SWGalaxyOfHeroes/comments/71904d/i_made_a_discord_bot_for_our_shard_to_track_time/) [(GitHub source)](https://github.com/Tarnadas/shard-payout)
+Original bot written by [Tarnadas](https://github.com/Tarnadas/shard-payout) [(Reddit thread)](https://www.reddit.com/r/SWGalaxyOfHeroes/comments/71904d/i_made_a_discord_bot_for_our_shard_to_track_time/) [(GitHub source)](https://github.com/Tarnadas/shard-payout)  
+Additional timezone support code by iShotFirst.
 
 ## Contact
 
