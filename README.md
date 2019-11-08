@@ -57,4 +57,6 @@ Additional timezone support code by iShotFirst.
 
 ## Contact
 
-Feel free to contact me on Discord: @nerfherder42#4397 
+I've mostly retired from the game and am no longer supporting the bot.
+
+If you're interested in maintaining the bot code, please contact me on Discord: @nerfherder42#4397 
